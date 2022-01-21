@@ -7,7 +7,7 @@ int main() {
     input = fopen("/input.txt", "r");
 
     while ((readBuff = getline()) != -1){
-        
+
     }
 
 
